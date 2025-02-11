@@ -18,7 +18,7 @@
 <hr/>
 
 > [!TIP]
-> Module Installation ✳️:
+> Installation ✳️:
 > 1. Make sure Magisk, KSU, or Apatch is Installed
 > 2. Download [Module](t.me/modulkuntul) | 2x 'Ads'
 > 3. Installation via Magisk/KSU/Apatch Manager
