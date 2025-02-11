@@ -1,8 +1,22 @@
 > ![Image](https://github.com/user-attachments/assets/8183d2a5-f1ec-430a-a4c2-f6df48ec80c8)
 
-> **DESCRIPTION...**    
-> Optimize Dalvik & Dex2oat to be better than before by using magisk module.
+> **DESCRIPTION 📝:**    
+> Dex2OAT Optimizer is a Magisk module that aims to improve Dalvik VM performance by optimizing the Dex2OAT process on Android.
+> - This module works by adjusting system properties related to JIT (Just-In-Time) Compiler, AOT (Ahead-Of-Time) Compiler, and dexopt settings.
 <hr/>
+
+> [!IMPORTANT]
+> Features 🚀:
+> 1. Enabling Hyperthreading & Multithreading on Dalvik VM. ✅
+> 2. Speed up the dexopt process for applications and systems. ✅
+> 3. Reduced overhead in the dex2oat process. ✅
+> 4. Adjust various Dalvik VM parameters for optimal performance. ✅
+> 5. Automatically wait for the system to finish booting before running the optimization. ✅
+> 6. Prevent double execution to avoid conflict. ✅
+> 7. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✅
+> 8. Supports installation on Magisk, KSU, and Apatch. ✅
+<hr/>
+
 
 > [!TIP]
 > 1. Open Magisk Manager or Ksu or APatch
@@ -22,12 +36,6 @@
 > [!CAUTION]
 > If the module I created causes a bootlop, it is at your own risk    
 > I have tested it on several devices below.
-<hr/>
-
-> [!IMPORTANT]
-> Tested on several devices such as.     
-> Redmi Note 12 4G NFC (TOPAZ)     
-> Redmi Note 8 (GINKGO)     
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
