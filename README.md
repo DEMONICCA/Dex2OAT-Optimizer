@@ -13,8 +13,9 @@
 > 4. Adjust various Dalvik VM parameters for optimal performance. ✔️
 > 5. Automatically wait for the system to finish booting before running the optimization. ✔️
 > 6. Prevent double execution to avoid conflict. ✔️
-> 7. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
-> 8. Supports installation on Magisk, KSU, and Apatch. ✔️
+> 7. Automatic detection of device architecture ✔️
+> 8. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
+> 9. Supports installation on Magisk, KSU, and Apatch. ✔️
 <hr/>
 
 > [!TIP]
