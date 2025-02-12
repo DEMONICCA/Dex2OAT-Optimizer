@@ -7,15 +7,15 @@
 
 > [!IMPORTANT]
 > Features 🚀:
-> 1. Enabling Hyperthreading & Multithreading on Dalvik VM. ✔️
-> 2. Speed up the dexopt process for applications and systems. ✔️
-> 3. Reduced overhead in the dex2oat process. ✔️
-> 4. Adjust various Dalvik VM parameters for optimal performance. ✔️
-> 5. Improve application code execution performance by optimizing memory management and code compilation. ✔️
-> 6. Optimize the compilation process to make the application run smoother with more efficient compilation. ✔️
-> 7. Reduce lag and improve system response speed. ✔️
-> 8. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
-> 9. Supports installation on Magisk, KSU, and Apatch. ✔️
+> 1. Reduce lag and improve system response speed. ✔️
+> 2. Optimize code execution with more efficient memory management and compilation. ✔️
+> 3. Speed up compilation for smoother and more efficient applications. ✔️
+> 4. Enabling Hyperthreading & Multithreading on Dalvik VM. ✔️
+> 5. Speed up the dexopt process for applications and systems. ✔️
+> 6. Reduced overhead in the dex2oat process. ✔️
+> 7. Adjust various Dalvik VM parameters for optimal performance. ✔️
+> 8. Supports installation on Magisk, KSU, and Apatch. ✔️
+> 9. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
 <hr/>
 
 > [!TIP]
