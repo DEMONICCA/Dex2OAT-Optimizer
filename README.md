@@ -11,9 +11,9 @@
 > 2. Speed up the dexopt process for applications and systems. ✔️
 > 3. Reduced overhead in the dex2oat process. ✔️
 > 4. Adjust various Dalvik VM parameters for optimal performance. ✔️
-> 5. Automatically wait for the system to finish booting before running the optimization. ✔️
-> 6. Prevent double execution to avoid conflict. ✔️
-> 7. Automatic detection of device architecture ✔️
+> 5. Improve application code execution performance by optimizing memory management and code compilation. ✔️
+> 6. Optimize the Dex2OAT compilation process to make the application run smoother with more efficient compilation. ✔️
+> 7. Reduce lag and improve system response speed. ✔️
 > 8. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
 > 9. Supports installation on Magisk, KSU, and Apatch. ✔️
 <hr/>
