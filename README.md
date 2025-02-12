@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > DESCRIPTION 📝:
-> - Dex2OAT Optimizer is a Magisk module that aims to improve Dalvik VM performance by optimizing the Dex2OAT process on Android.
+> - Dex2OAT Optimizer is a Magisk module that optimizes Dalvik VM & Dex2OAT to improve Android performance. This module aims to speed up application execution and improve the efficiency of the Android system in managing compiled code.
 <hr/>
 
 > [!IMPORTANT]
@@ -12,7 +12,7 @@
 > 3. Reduced overhead in the dex2oat process. ✔️
 > 4. Adjust various Dalvik VM parameters for optimal performance. ✔️
 > 5. Improve application code execution performance by optimizing memory management and code compilation. ✔️
-> 6. Optimize the Dex2OAT compilation process to make the application run smoother with more efficient compilation. ✔️
+> 6. Optimize the compilation process to make the application run smoother with more efficient compilation. ✔️
 > 7. Reduce lag and improve system response speed. ✔️
 > 8. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
 > 9. Supports installation on Magisk, KSU, and Apatch. ✔️
