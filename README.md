@@ -46,4 +46,3 @@
 [![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
 [![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
-
