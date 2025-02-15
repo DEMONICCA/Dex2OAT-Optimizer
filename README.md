@@ -34,9 +34,16 @@
 > - Make sure you have access to recovery mode (TWRP/ADB) before installing this module, just in case something goes wrong.
 <hr/>
 
-> [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
-> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
-> 
-> [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
-> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+<div align="center">
+  If you like my work, please follow me/star my work on GitHub        
+ 
+  You can also show your concern by donating below.
+<div align="center">
+ </div>
 <hr/>
+  
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/illumi666)
+[![](https://img.shields.io/badge/-Trakteer-red?style=for-the-badge)](https://trakteer.id/demonica/tip)
+[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/DEMONICA)
+[![Paypal](https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logoColor=white)](https://www.paypal.com/paypalme/faniadittiya)
+
