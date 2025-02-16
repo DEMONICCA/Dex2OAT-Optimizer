@@ -15,7 +15,7 @@
 > 6. Reduced overhead in the dex2oat process. ✔️
 > 7. Adjust various Dalvik VM parameters for optimal performance. ✔️
 > 8. Supports installation on Magisk, KSU, and Apatch. ✔️
-> 9. Provide detailed logs in '/storage/emulated/0/Android/Dex.log'. ✔️
+> 9. Provide detailed logs in `/storage/emulated/0/Android/Dex.log`. ✔️
 <hr/>
 
 > [!TIP]
