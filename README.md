@@ -26,6 +26,11 @@
 > 4. Reboot the device after the installation is complete.
 <hr/>
 
+> [!WARNING]
+> Disclaimers 🛡️:
+> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
+<hr/>
+
 > [!CAUTION]
 > Warning ☢️:
 > - This module changes sensitive system settings. Make sure you understand the changes made before installing it.

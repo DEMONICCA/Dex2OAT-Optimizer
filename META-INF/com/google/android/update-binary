@@ -1,9 +1,6 @@
 umask 022
 
-# Fungsi untuk mencetak pesan ke layar
 ui_print() { echo "$1"; }
-
-# Fungsi untuk meminta pengguna menginstal Magisk versi 20.4 atau lebih baru
 require_new_magisk() {
   ui_print "*******************************"
   ui_print " Please install Magisk v20.4+! "
@@ -11,24 +8,17 @@ require_new_magisk() {
   exit 1
 }
 
-# Mendapatkan parameter output file descriptor dan lokasi ZIP
 OUTFD=$2
 ZIPFILE=$3
 
-# Mount /data untuk memastikan akses tersedia
 mount /data 2>/dev/null
 
-# Memeriksa apakah skrip utilitas Magisk ada, jika tidak ada, meminta instalasi Magisk terbaru
 [ -f /data/adb/magisk/util_functions.sh ] || require_new_magisk
 
-# Memuat fungsi-fungsi utilitas Magisk
 . /data/adb/magisk/util_functions.sh
 
-# Memeriksa versi Magisk yang terinstal, jika kurang dari 20.4 maka meminta pembaruan
 [ $MAGISK_VER_CODE -lt 20400 ] && require_new_magisk
 
-# Memulai proses instalasi modul
 install_module
 
-# Keluar dari skrip dengan kode sukses
 exit 0
